@@ -7,7 +7,7 @@ A list of rss.
   - weekly: [topic]: http://github-trends.ryotarai.info/rss/github_trends_[topic]_weekly.rss
   - monthly: [topic]: http://github-trends.ryotarai.info/rss/github_trends_[topic]_weekly.rss
 2. [V2EX](https://www.v2ex.com/index.xml)
-  - [topic]: https://www.v2ex.com/feed/tab/[topic].xml
+  - topic: [topic]: https://www.v2ex.com/feed/tab/[topic].xml
 3. 月光博客: http://feed.williamlong.info/
 4. 知乎
   - 日报: https://feeds.feedburner.com/zhihu-daily
